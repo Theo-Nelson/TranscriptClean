@@ -17,7 +17,6 @@ import dstruct
 
 # Other modules
 from pyfasta import Fasta
-import pickle5 as pickle
 import os
 import multiprocessing as mp
 from math import ceil
